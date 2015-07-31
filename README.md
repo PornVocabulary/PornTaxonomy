@@ -1,4 +1,4 @@
-# Porn-Schema
+# Porn Schema
 Schemas for porn structured data.
 
 
