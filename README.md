@@ -15,14 +15,14 @@ Schemas for porn structured data.
           * Athletic 
           * BBW
       * Hair 
-       * Color 
-         * Blonde 
-         * Brown 
-         * Brunette 
-         * Redhead 
-       * Size
-         * Long Hair 
-         * Short Hair 
+        * Color 
+          * Blonde 
+          * Brown 
+          * Brunette 
+          * Redhead 
+        * Size
+          * Long Hair 
+          * Short Hair 
       * Skin 
         * Type 
           * Pale 
