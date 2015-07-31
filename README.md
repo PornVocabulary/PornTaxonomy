@@ -32,6 +32,9 @@ Schemas for porn structured data.
     * Exhibitionism
       * Flashing 
     * Fetishism
+      * BDSM
+        * Bondage
+        * Spanking
       * Clothing Fetish 
         * Non Restrictive Clothing
           * Clothing Type
