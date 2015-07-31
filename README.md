@@ -1,6 +1,6 @@
-# Porn Schema
-Schemas for porn structured data.
+# Porn Categories
 
+Schemas for porn structured data.
 
 * Pornography Genre
   * Physical Characteristics 
@@ -10,6 +10,12 @@ Schemas for porn structured data.
       * Female 
       * Male 
     * Physical
+      * Body 
+      * Hair 
+  * Sexual Interest
+    * Exhibitionism
+      * Flashing 
+    * Fetishism
   * Sexual Orientation
     * Heterosexual 
     * Homosexual
@@ -26,3 +32,6 @@ Schemas for porn structured data.
 * Pornography Type
   * Hardcore
   * Softcore
+* Place
+  * Indoor
+  * Outdoor
