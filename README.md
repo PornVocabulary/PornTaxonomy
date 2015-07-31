@@ -10,6 +10,16 @@ Schemas for porn structured data.
       * Female 
       * Male 
     * Physical
+  * Sexual Orientation
+    * Heterosexual 
+    * Homosexual
+      * Lesbian 
+      * Gay 
+    * Bisexual 
+  * Sexual Position
+    * Exclusively Penetrative Positions 
+    * Non Exclusively Penetrative Positions
+    * Non Penetrative Positions 
 * Pornography Style
   * Conventional 
   * Gonzo
