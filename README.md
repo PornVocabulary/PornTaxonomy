@@ -11,7 +11,23 @@ Schemas for porn structured data.
       * Male 
     * Physical
       * Body 
+        * Type 
+         * Athletic 
+         * BBW
       * Hair 
+       * Color 
+        * Blonde 
+        * Brown 
+        * Brunette 
+        * Redhead 
+       * Size
+        * Long Hair 
+        * Short Hair 
+      * Skin 
+        * Type 
+         * Pale 
+         * Tanned
+          * Tan Lines
   * Sexual Interest
     * Exhibitionism
       * Flashing 
