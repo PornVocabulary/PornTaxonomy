@@ -6,6 +6,8 @@ Schemas for porn structured data.
   * Physical Characteristics 
     * Age 
     * Ethnicity
+      * Asian 
+      * Caucasian 
     * Gender 
       * Female 
       * Male 
