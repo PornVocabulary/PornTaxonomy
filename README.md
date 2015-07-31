@@ -44,6 +44,20 @@ Schemas for porn structured data.
               * High Heels
               * Sneakers
             * Shorts
+          * Fabric type
+            * Latex
+            * Leather
+            * Spandex
+          * Uniform
+            * Maid
+            * Office
+              * Boss
+              * Secretary
+            * School
+              * Cheerleader
+              * Student
+              * Teacher
+            * Shorts
         * Restrictive Clothing
   * Sexual Orientation
     * Heterosexual 
