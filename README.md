@@ -32,6 +32,19 @@ Schemas for porn structured data.
     * Exhibitionism
       * Flashing 
     * Fetishism
+      * Clothing Fetish 
+        * Non Restrictive Clothing
+          * Clothing Type
+            * Jeans
+            * Lingerie
+              * Pantyhose
+              * Stockings
+            * Shoes
+              * Boot
+              * High Heels
+              * Sneakers
+            * Shorts
+        * Restrictive Clothing
   * Sexual Orientation
     * Heterosexual 
     * Homosexual
