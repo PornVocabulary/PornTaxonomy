@@ -1,4 +1,4 @@
-# Porn Categories
+# Porn Taxonomy
 
 Schemas for porn structured data.
 
