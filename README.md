@@ -65,7 +65,7 @@ Schemas for porn structured data.
     * Clothing Fetish 
       * Non Restrictive Clothing
         * Clothing Type
-          * [Jeans](https://en.wikipedia.org/wiki/Jeans)
+          * [Trousers](https://en.wikipedia.org/wiki/Trousers)
           * Lingerie
             * [Pantyhose](https://en.wikipedia.org/wiki/Pantyhose)
             * [Stockings](https://en.wikipedia.org/wiki/Stockings)
@@ -75,6 +75,7 @@ Schemas for porn structured data.
             * [Sneakers](https://en.wikipedia.org/wiki/Sneakers_(footwear))
           * Shorts
         * Fabric type
+          * [Jeans](https://en.wikipedia.org/wiki/Jeans) 
           * [Latex](https://en.wikipedia.org/wiki/Latex_and_PVC_fetishism)
           * Leather
           * [Spandex](https://en.wikipedia.org/wiki/Spandex)
@@ -101,7 +102,8 @@ Schemas for porn structured data.
 * **Sexual Position**
   * Exclusively Penetrative Positions 
   * Non Exclusively Penetrative Positions
-  * Non Penetrative Positions 
+  * Non Penetrative Positions
+    * [Mammary Intercourse](https://en.wikipedia.org/wiki/Mammary_intercourse) 
 
 ## Pornography Style
   * Conventional 
