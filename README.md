@@ -44,6 +44,8 @@ Schemas for porn structured data.
   * Fetishism
     * [BDSM](https://en.wikipedia.org/wiki/BDSM)
       * [Bondage](https://en.wikipedia.org/wiki/Bondage)
+      * [Blindfolded](https://en.wikipedia.org/wiki/Blindfold)
+      * Female Domination 
       * [Spanking](https://en.wikipedia.org/wiki/Spanking)
     * Clothing Fetish 
       * Non Restrictive Clothing
