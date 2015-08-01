@@ -39,7 +39,7 @@ Schemas for porn structured data.
         * Long Hair 
         * Short Hair 
 * **Sexual Interest**
-  * Exhibitionism
+  * [Exhibitionism](https://en.wikipedia.org/wiki/Exhibitionism)
     * Flashing 
   * Fetishism
     * [BDSM](https://en.wikipedia.org/wiki/BDSM)
@@ -48,14 +48,14 @@ Schemas for porn structured data.
     * Clothing Fetish 
       * Non Restrictive Clothing
         * Clothing Type
-          * Jeans
+          * [Jeans](https://en.wikipedia.org/wiki/Jeans)
           * Lingerie
             * [Pantyhose](https://en.wikipedia.org/wiki/Pantyhose)
             * [Stockings](https://en.wikipedia.org/wiki/Stockings)
           * Shoes
             * Boot
-            * High Heels
-            * Sneakers
+            * [High Heels](https://en.wikipedia.org/wiki/High-heeled_footwear)
+            * [Sneakers](https://en.wikipedia.org/wiki/Sneakers_(footwear))
           * Shorts
         * Fabric type
           * [Latex](https://en.wikipedia.org/wiki/Latex_and_PVC_fetishism)
@@ -75,7 +75,7 @@ Schemas for porn structured data.
 * **Sexual Orientation**
   * Heterosexual 
   * Homosexual
-    * Lesbian 
+    * [Lesbian](https://en.wikipedia.org/wiki/Lesbian) 
     * Gay 
   * Bisexual 
 * **Sexual Position**
