@@ -37,6 +37,15 @@ Schemas for porn structured data.
       * Size
         * [Long Hair](https://en.wikipedia.org/wiki/Long_hair) 
         * [Short Hair](https://en.wikipedia.org/wiki/Short_hair) 
+    * Breast 
+      * Size
+        * Small Breast
+        * Medium Breast
+        * Big Breast
+      * Type
+        * [Enhanced](https://en.wikipedia.org/wiki/Breast_enlargement)
+        * Natural
+
 * **Sexual Interest**
   * [Exhibitionism](https://en.wikipedia.org/wiki/Exhibitionism)
     * [Anasyrma](https://en.wikipedia.org/wiki/Anasyrma)
@@ -50,6 +59,8 @@ Schemas for porn structured data.
       * [Blindfolded](https://en.wikipedia.org/wiki/Blindfold)
       * [Female Domination](https://en.wikipedia.org/wiki/BDSM) 
       * [Spanking](https://en.wikipedia.org/wiki/Spanking)
+    * Body
+      * [Foot fetishism](https://en.wikipedia.org/wiki/Podophilia)
     * Clothing Fetish 
       * Non Restrictive Clothing
         * Clothing Type
@@ -77,6 +88,7 @@ Schemas for porn structured data.
             * [Teacher](https://en.wikipedia.org/wiki/Teacher)
           * Shorts
       * Restrictive Clothing
+  * [Voyeurism](https://en.wikipedia.org/wiki/Voyeurism)
 * **Sexual Orientation**
   * Heterosexual 
   * Homosexual
