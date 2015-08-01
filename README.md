@@ -69,6 +69,7 @@ Schemas for porn structured data.
           * Lingerie
             * [Pantyhose](https://en.wikipedia.org/wiki/Pantyhose)
             * [Stockings](https://en.wikipedia.org/wiki/Stockings)
+            * Thigh-Highs
           * Shoes
             * Boot
             * [High Heels](https://en.wikipedia.org/wiki/High-heeled_footwear)
