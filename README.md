@@ -4,7 +4,7 @@ Schemas for porn structured data.
 
 ##  Pornography Genre
 
-* **Physical Characteristics** 
+* **Model** 
   * Age 
   * Ethnicity
     * Asian 
@@ -14,9 +14,16 @@ Schemas for porn structured data.
     * Male 
   * Physical
     * Body 
+      * Piercing 
+      * Tatoo 
       * Type 
         * Athletic 
         * BBW
+      * Skin 
+        * Type 
+          * Pale 
+          * Tanned
+            * Tan Lines
     * Hair 
       * Color 
         * Blonde 
@@ -29,11 +36,6 @@ Schemas for porn structured data.
       * Size
         * Long Hair 
         * Short Hair 
-    * Skin 
-      * Type 
-        * Pale 
-        * Tanned
-          * Tan Lines
 * **Sexual Interest**
   * Exhibitionism
     * Flashing 
