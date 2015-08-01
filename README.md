@@ -97,12 +97,14 @@ Schemas for porn structured data.
   * Heterosexual 
   * Homosexual
     * [Lesbian](https://en.wikipedia.org/wiki/Lesbian) 
-    * Gay 
-  * Bisexual 
+    * [Gay](https://en.wikipedia.org/wiki/Gay) 
+  * [Bisexual](https://en.wikipedia.org/wiki/Bisexuality) 
 * **Sexual Position**
   * Exclusively Penetrative Positions 
   * Non Exclusively Penetrative Positions
   * Non Penetrative Positions
+    * [Footjob](https://en.wikipedia.org/wiki/Footjob) 
+    * [Handjob](https://en.wikipedia.org/wiki/Handjob) 
     * [Mammary Intercourse](https://en.wikipedia.org/wiki/Mammary_intercourse) 
 
 ## Pornography Style
