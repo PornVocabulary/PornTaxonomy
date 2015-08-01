@@ -6,6 +6,8 @@ Schemas for porn structured data.
 
 * **Model** 
   * Age 
+    * [Teen](https://simple.wikipedia.org/wiki/Teenager) 
+    * Mature
   * Ethnicity
     * Asian 
     * Caucasian 
@@ -18,12 +20,12 @@ Schemas for porn structured data.
       * Tatoo 
       * Type 
         * Athletic 
-        * BBW
+        * [BBW](https://fr.wikipedia.org/wiki/BBW)
       * Skin 
         * Type 
           * Pale 
-          * Tanned
-            * Tan Lines
+          * [Tanned](https://en.wikipedia.org/wiki/Sun_tanning)
+            * [Tan Lines](https://en.wikipedia.org/wiki/Tan_line)
     * Hair 
       * Color 
         * Blonde 
@@ -40,25 +42,25 @@ Schemas for porn structured data.
   * Exhibitionism
     * Flashing 
   * Fetishism
-    * BDSM
-      * Bondage
-      * Spanking
+    * [BDSM](https://en.wikipedia.org/wiki/BDSM)
+      * [Bondage](https://en.wikipedia.org/wiki/Bondage)
+      * [Spanking](https://en.wikipedia.org/wiki/Spanking)
     * Clothing Fetish 
       * Non Restrictive Clothing
         * Clothing Type
           * Jeans
           * Lingerie
-            * Pantyhose
-            * Stockings
+            * [Pantyhose](https://en.wikipedia.org/wiki/Pantyhose)
+            * [Stockings](https://en.wikipedia.org/wiki/Stockings)
           * Shoes
             * Boot
             * High Heels
             * Sneakers
           * Shorts
         * Fabric type
-          * Latex
+          * [Latex](https://en.wikipedia.org/wiki/Latex_and_PVC_fetishism)
           * Leather
-          * Spandex
+          * [Spandex](https://en.wikipedia.org/wiki/Spandex)
         * Uniform
           * Maid
           * Office
