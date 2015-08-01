@@ -20,7 +20,8 @@ Schemas for porn structured data.
       * Tatoo 
       * Type 
         * Athletic 
-        * [BBW](https://fr.wikipedia.org/wiki/BBW)
+        * [BBW](https://fr.wikipedia.org/wiki/BBW) ~ *Plump*, *Chubby*
+        * Skinny ~ *Slender*
       * Skin 
         * Type 
           * Pale 
