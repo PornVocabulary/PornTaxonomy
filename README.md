@@ -60,7 +60,7 @@ Schemas for porn structured data.
       * [Female Domination](https://en.wikipedia.org/wiki/BDSM) 
       * [Spanking](https://en.wikipedia.org/wiki/Spanking)
     * Body
-      * [Foot fetishism](https://en.wikipedia.org/wiki/Podophilia)
+      * [Foot Fetishism](https://en.wikipedia.org/wiki/Podophilia)
     * Clothing Fetish 
       * Non Restrictive Clothing
         * Clothing Type
