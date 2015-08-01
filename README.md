@@ -77,8 +77,9 @@ Schemas for porn structured data.
           * [Latex](https://en.wikipedia.org/wiki/Latex_and_PVC_fetishism)
           * Leather
           * [Spandex](https://en.wikipedia.org/wiki/Spandex)
-        * Uniform
-          * Maid
+        * [Uniform](https://en.wikipedia.org/wiki/Uniform_fetishism)
+          * [Maid](https://en.wikipedia.org/wiki/Maid)
+          * [Nurse](https://en.wikipedia.org/wiki/Nursing)
           * Office
             * Boss
             * [Secretary](https://en.wikipedia.org/wiki/Secretary)
@@ -86,6 +87,7 @@ Schemas for porn structured data.
             * [Cheerleader](https://en.wikipedia.org/wiki/Cheerleading)
             * Student ~ Coed
             * [Teacher](https://en.wikipedia.org/wiki/Teacher)
+            * Military
           * Shorts
       * Restrictive Clothing
   * [Voyeurism](https://en.wikipedia.org/wiki/Voyeurism)
