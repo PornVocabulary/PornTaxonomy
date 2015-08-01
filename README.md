@@ -28,24 +28,27 @@ Schemas for porn structured data.
             * [Tan Lines](https://en.wikipedia.org/wiki/Tan_line)
     * Hair 
       * Color 
-        * Blonde 
-        * Brown 
-        * Brunette 
-        * Redhead 
+        * [Blonde](https://en.wikipedia.org/wiki/Blond) 
+        * [Brunette](https://en.wikipedia.org/wiki/Brown_hair) ~ Brown Hair
+        * [Redhead](https://en.wikipedia.org/wiki/Red_hair) 
       * Type
-        * Straight 
-        * Curly 
+        * [Straight](https://en.wikipedia.org/wiki/Hair#Straight_hair) 
+        * [Curly](https://en.wikipedia.org/wiki/Hair#Curly_hair) 
       * Size
-        * Long Hair 
-        * Short Hair 
+        * [Long Hair](https://en.wikipedia.org/wiki/Long_hair) 
+        * [Short Hair](https://en.wikipedia.org/wiki/Short_hair) 
 * **Sexual Interest**
   * [Exhibitionism](https://en.wikipedia.org/wiki/Exhibitionism)
+    * [Anasyrma](https://en.wikipedia.org/wiki/Anasyrma)
+    * [Candaulism](https://en.wikipedia.org/wiki/Candaulism)
     * Flashing 
+    * [Mooning](https://en.wikipedia.org/wiki/Mooning)
+    * [Streaking](https://en.wikipedia.org/wiki/Streaking)
   * Fetishism
     * [BDSM](https://en.wikipedia.org/wiki/BDSM)
       * [Bondage](https://en.wikipedia.org/wiki/Bondage)
       * [Blindfolded](https://en.wikipedia.org/wiki/Blindfold)
-      * Female Domination 
+      * [Female Domination](https://en.wikipedia.org/wiki/BDSM) 
       * [Spanking](https://en.wikipedia.org/wiki/Spanking)
     * Clothing Fetish 
       * Non Restrictive Clothing
@@ -67,11 +70,11 @@ Schemas for porn structured data.
           * Maid
           * Office
             * Boss
-            * Secretary
+            * [Secretary](https://en.wikipedia.org/wiki/Secretary)
           * School
-            * Cheerleader
-            * Student
-            * Teacher
+            * [Cheerleader](https://en.wikipedia.org/wiki/Cheerleading)
+            * Student ~ Coed
+            * [Teacher](https://en.wikipedia.org/wiki/Teacher)
           * Shorts
       * Restrictive Clothing
 * **Sexual Orientation**
