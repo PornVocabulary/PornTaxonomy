@@ -23,6 +23,9 @@ Schemas for porn structured data.
         * Brown 
         * Brunette 
         * Redhead 
+      * Type
+        * Straight 
+        * Curly 
       * Size
         * Long Hair 
         * Short Hair 
